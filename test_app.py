@@ -5,7 +5,7 @@ def test_home():
     tester = app.test_client()
     response = tester.get('/')
     assert response.status_code == 200
-    assert json.loads(response.data) == {'message': 'Welcome to my API'}
+    assert json.loads(response.data) == {'message': 'Ici Mon API'}
 
 def test_add():
     tester = app.test_client()
