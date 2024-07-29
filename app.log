@@ -1,0 +1,70 @@
+2024-07-28 17:41:08,898 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-28 17:41:08,899 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-28 17:41:08,905 - werkzeug - INFO -  * Restarting with stat
+2024-07-28 17:41:09,226 - werkzeug - WARNING -  * Debugger is active!
+2024-07-28 17:41:09,233 - werkzeug - INFO -  * Debugger PIN: 718-458-271
+2024-07-28 17:42:48,577 - root - INFO - Accueil accédé
+2024-07-28 17:42:48,578 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2024 17:42:48] "GET / HTTP/1.1" 200 -
+2024-07-28 17:43:03,012 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2024 17:43:03] "[33mGET /error HTTP/1.1[0m" 404 -
+2024-07-28 17:44:13,181 - root - INFO - Accueil accédé
+2024-07-28 17:44:13,181 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2024 17:44:13] "GET / HTTP/1.1" 200 -
+2024-07-28 17:44:55,340 - werkzeug - INFO -  * Detected change in 'C:\\Users\\imane amahrach\\Mon_API\\app.py', reloading
+2024-07-28 17:44:55,389 - werkzeug - INFO -  * Restarting with stat
+2024-07-28 17:44:55,719 - werkzeug - WARNING -  * Debugger is active!
+2024-07-28 17:44:55,725 - werkzeug - INFO -  * Debugger PIN: 718-458-271
+2024-07-28 17:44:57,383 - root - INFO - Accueil accédé
+2024-07-28 17:44:57,384 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2024 17:44:57] "GET / HTTP/1.1" 200 -
+2024-07-28 17:45:53,520 - werkzeug - INFO -  * Detected change in 'C:\\Users\\imane amahrach\\Mon_API\\app.py', reloading
+2024-07-28 17:45:53,569 - werkzeug - INFO -  * Restarting with stat
+2024-07-28 17:45:53,830 - werkzeug - WARNING -  * Debugger is active!
+2024-07-28 17:45:53,834 - werkzeug - INFO -  * Debugger PIN: 718-458-271
+2024-07-28 17:45:57,461 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-28 17:45:57,461 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-28 17:45:57,464 - werkzeug - INFO -  * Restarting with stat
+2024-07-28 17:45:57,704 - werkzeug - WARNING -  * Debugger is active!
+2024-07-28 17:45:57,709 - werkzeug - INFO -  * Debugger PIN: 718-458-271
+2024-07-28 17:46:13,248 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2024 17:46:13] "[33mGET /error HTTP/1.1[0m" 404 -
+2024-07-28 17:46:27,111 - werkzeug - INFO -  * Detected change in 'C:\\Users\\imane amahrach\\Mon_API\\app.py', reloading
+2024-07-28 17:46:27,138 - werkzeug - INFO -  * Restarting with stat
+2024-07-28 17:46:27,415 - werkzeug - WARNING -  * Debugger is active!
+2024-07-28 17:46:27,420 - werkzeug - INFO -  * Debugger PIN: 718-458-271
+2024-07-28 17:48:52,406 - werkzeug - INFO -  * Detected change in 'C:\\Users\\imane amahrach\\Mon_API\\app.py', reloading
+2024-07-28 17:48:52,440 - werkzeug - INFO -  * Restarting with stat
+2024-07-28 17:48:52,740 - werkzeug - WARNING -  * Debugger is active!
+2024-07-28 17:48:52,746 - werkzeug - INFO -  * Debugger PIN: 718-458-271
+2024-07-28 17:48:57,807 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-28 17:48:57,807 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-07-28 17:48:57,811 - werkzeug - INFO -  * Restarting with stat
+2024-07-28 17:48:58,067 - werkzeug - WARNING -  * Debugger is active!
+2024-07-28 17:48:58,073 - werkzeug - INFO -  * Debugger PIN: 718-458-271
+2024-07-28 17:49:07,378 - root - ERROR - Erreur capturée: Une erreur simulée
+2024-07-28 17:49:07,378 - werkzeug - INFO - 127.0.0.1 - - [28/Jul/2024 17:49:07] "[35m[1mGET /error HTTP/1.1[0m" 500 -
+{"asctime": "2024-07-28 21:03:04,061", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null, "route": "/"}
+{"asctime": "2024-07-28 21:03:58,354", "levelname": "ERROR", "name": "flask.app", "message": "Erreur captur\u00e9e: Une erreur simul\u00e9e", "taskName": null, "route": "/error"}
+{"asctime": "2024-07-28 21:03:59,056", "levelname": "ERROR", "name": "flask.app", "message": "Erreur captur\u00e9e: Une erreur simul\u00e9e", "taskName": null, "route": "/error"}
+{"asctime": "2024-07-28 21:08:46,110", "levelname": "ERROR", "name": "flask.app", "message": "Erreur captur\u00e9e: Une erreur simul\u00e9e", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\imane amahrach\\Mon_API\\app.py\", line 34, in error\n    raise ValueError(\"Une erreur simul\u00e9e\")\nValueError: Une erreur simul\u00e9e", "taskName": null}
+{"asctime": "2024-07-28 21:09:17,647", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-28 21:09:33,404", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-28 21:09:41,883", "levelname": "ERROR", "name": "flask.app", "message": "Erreur captur\u00e9e: Une erreur simul\u00e9e", "exc_info": "Traceback (most recent call last):\n  File \"C:\\Users\\imane amahrach\\Mon_API\\app.py\", line 34, in error\n    raise ValueError(\"Une erreur simul\u00e9e\")\nValueError: Une erreur simul\u00e9e", "taskName": null}
+{"asctime": "2024-07-28 21:39:12,038", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-28 21:39:12,834", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-28 21:39:26,363", "levelname": "ERROR", "name": "flask.app", "message": "Erreur captur\u00e9e: Une erreur simul\u00e9e", "taskName": null}
+{"asctime": "2024-07-28 21:40:34,532", "levelname": "ERROR", "name": "flask.app", "message": "Erreur captur\u00e9e: Une erreur simul\u00e9e", "taskName": null}
+{"asctime": "2024-07-28 21:40:37,484", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-28 21:42:49,740", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-28 21:42:50,469", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-28 22:19:02,756", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:09:27,655", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:09:29,504", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:10:51,151", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:10:52,584", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:14:16,089", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:14:16,712", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:14:16,892", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:14:17,061", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+{"asctime": "2024-07-29 01:22:42,654", "levelname": "INFO", "name": "flask.app", "message": "Accueil acc\u00e9d\u00e9", "taskName": null}
+
+
